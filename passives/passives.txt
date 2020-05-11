@@ -1,0 +1,6 @@
+FreePower
+ManaJump
+Nurse
+OffCard
+TwiceDraw
+Warriors
